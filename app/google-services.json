@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553747606015",
+    "project_id": "igforfriends",
+    "storage_bucket": "igforfriends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553747606015:android:3b4946c8af2218a6845fca",
+        "android_client_info": {
+          "package_name": "com.kutayacaar.igforfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553747606015-as68lcm91h9qu8olv8mquk1q5uala0c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOMeWoYwxGRPF6dreO_0YRV8pXV3A4ryI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553747606015-as68lcm91h9qu8olv8mquk1q5uala0c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
